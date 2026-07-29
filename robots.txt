@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mangwon-karaoke-note.gangnam-night-zone.xyz/sitemap.xml
